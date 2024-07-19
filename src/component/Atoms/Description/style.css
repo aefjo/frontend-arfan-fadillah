@@ -1,0 +1,40 @@
+.description {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0px;
+}
+
+.description p {
+    padding: 20px;
+    border-radius: 4px;
+    width: 940px;
+    background-color: #FAFCFB;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.system {
+    color: #e1a014;
+}
+
+.dot {
+    color: #666;
+}
+
+.out {
+    color: crimson;
+}
+
+.println {
+    color: #5488B9;
+}
+
+.kurung {
+    color: #e1a014;
+}
+
