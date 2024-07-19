@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frontend-arfan-fadillah/static/css/main.5e148f7c.css",
+    "main.js": "/frontend-arfan-fadillah/static/js/main.6b87b7b1.js",
+    "static/js/453.c1eef4f5.chunk.js": "/frontend-arfan-fadillah/static/js/453.c1eef4f5.chunk.js",
+    "static/media/bg.jpg": "/frontend-arfan-fadillah/static/media/bg.a6a8d8375b604775d5f4.jpg",
+    "index.html": "/frontend-arfan-fadillah/index.html",
+    "main.5e148f7c.css.map": "/frontend-arfan-fadillah/static/css/main.5e148f7c.css.map",
+    "main.6b87b7b1.js.map": "/frontend-arfan-fadillah/static/js/main.6b87b7b1.js.map",
+    "453.c1eef4f5.chunk.js.map": "/frontend-arfan-fadillah/static/js/453.c1eef4f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e148f7c.css",
+    "static/js/main.6b87b7b1.js"
+  ]
+}
